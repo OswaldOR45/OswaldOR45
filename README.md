@@ -9,7 +9,7 @@ I like the unglamorous part of engineering: messy real-world data, processes tha
 ```python
 oswaldo = {
     "role": "Full-Stack Developer · Data & Continuous Improvement",
-    "where": "19 Hermanos Pet Food 🐾 (Ocotlán, Jalisco, México)",
+    "where": "19 Hermanos Pet Food 🐾 (Tototlán, Jalisco, México)",
     "focus": ["industrial data", "automation", "ETL", "internal tools", "reliability"],
     "stack": ["Python", "Streamlit", "FastAPI", "Google Apps Script", "PostgreSQL"],
     "also_did": "DevOps Lead on a state-data platform (CI/CD, observability, Cloudflare)",
@@ -58,9 +58,9 @@ oswaldo = {
 ## 🌱 Right now
 
 - 🏭 Building internal tools and data pipelines at **19 Hermanos Pet Food**
-- ☁️ Co-Captain at **AWS Cloud Club Cardenalitos**, hosting events and growing the regional student cloud community
 - 📚 Going deeper into data engineering, reliability and process optimization
 - 🤝 Always up for talking shop with other builders — reach out
+- while ( age > 0 ) { System.out.println(" Keep Learning "); }
 
 ---
 
