@@ -13,7 +13,7 @@ oswaldo = {
     "focus": ["industrial data", "automation", "ETL", "internal tools", "reliability"],
     "stack": ["Python", "Streamlit", "FastAPI", "Google Apps Script", "PostgreSQL"],
     "also_did": "DevOps Lead on a state-data platform (CI/CD, observability, Cloudflare)",
-    "currently": "Co-Captain @ AWS Cloud Club Cardenalitos ☁️",
+    "proud_to_were": "Co-Captain @ AWS Cloud Club Cardenalitos ☁️",
     "off_screen": ["foodie 🌮", "outdoors", "music", "learning by doing"],
 }
 ```
